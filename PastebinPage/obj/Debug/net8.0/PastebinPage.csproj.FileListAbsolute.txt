@@ -1,0 +1,15 @@
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/bin/Debug/net8.0/PastebinPage.deps.json
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/bin/Debug/net8.0/PastebinPage.dll
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/bin/Debug/net8.0/PastebinPage.pdb
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.csproj.AssemblyReference.cache
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.GeneratedMSBuildEditorConfig.editorconfig
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.AssemblyInfoInputs.cache
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.AssemblyInfo.cs
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.csproj.CoreCompileInputs.cache
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.dll
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/refint/PastebinPage.dll
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/PastebinPage.pdb
+/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/Debug/net8.0/ref/PastebinPage.dll

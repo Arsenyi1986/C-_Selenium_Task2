@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqlXfNI5g4E=",
+  "success": true,
+  "projectFilePath": "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/PastebinPage.csproj",
+  "expectedPackageFiles": [
+    "/home/artorias/.nuget/packages/selenium.support/4.25.0/selenium.support.4.25.0.nupkg.sha512",
+    "/home/artorias/.nuget/packages/selenium.webdriver/4.25.0/selenium.webdriver.4.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}

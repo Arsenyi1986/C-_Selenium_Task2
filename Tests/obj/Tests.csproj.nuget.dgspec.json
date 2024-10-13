@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/artorias/git_repo_folder/C#_Selenium_Task2/Tests/Tests.csproj": {}
+  },
+  "projects": {
+    "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/PastebinPage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/PastebinPage.csproj",
+        "projectName": "PastebinPage",
+        "projectPath": "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/PastebinPage.csproj",
+        "packagesPath": "/home/artorias/.nuget/packages/",
+        "outputPath": "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artorias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "selenium.support": {
+              "target": "Package",
+              "version": "[4.25.0, )"
+            },
+            "selenium.webdriver": {
+              "target": "Package",
+              "version": "[4.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/artorias/git_repo_folder/C#_Selenium_Task2/Tests/Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/artorias/git_repo_folder/C#_Selenium_Task2/Tests/Tests.csproj",
+        "projectName": "Tests",
+        "projectPath": "/home/artorias/git_repo_folder/C#_Selenium_Task2/Tests/Tests.csproj",
+        "packagesPath": "/home/artorias/.nuget/packages/",
+        "outputPath": "/home/artorias/git_repo_folder/C#_Selenium_Task2/Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/artorias/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/PastebinPage.csproj": {
+                "projectPath": "/home/artorias/git_repo_folder/C#_Selenium_Task2/PastebinPage/PastebinPage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
